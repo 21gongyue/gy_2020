@@ -1,0 +1,4 @@
+2020-07-21 14:44:45,060 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-21 14:44:45,066 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-21 14:44:46,669 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-21 14:44:46,831 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ea05f58b56de092e8bb0aff71ec25f9a", element="b0f1916b-1391-4264-9811-379fc1f246a4")> 中输入： 手机 
